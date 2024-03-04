@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: zer0poc
+Version: 0.1
+Summary: PoC generater thats fast and pretty for your vulnerabilty.
+Home-page: https://github.com/retr0reg/zer00poc
+Author: 0reg
+Author-email: 0reg@0reg.dev
+License: MIT
+License-File: LICENSE
+
+# 0PoC
+<<<<<<< HEAD
+PoC generater for fast and pretty for your vulnerabilty.
+=======
+PoC generater for fast and pretty for your vulnerabilty.
+>>>>>>> 1073131fe33f5b9fc85c82bebc7eff550b0f4896
